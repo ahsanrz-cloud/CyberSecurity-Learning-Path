@@ -1,4 +1,4 @@
-# CyberSecurity-Learning-Path
+# My CyberSecurity Journey 
 
 Hi, I’m Syed.
 I started my career as an Senior Network/Telecommunication Engineer, working across wired/wireless networks, system integration, and field deployments. I’ve spent years solving real-world connectivity problems, designing reliable network solutions and supporting critical communications for large organisations.
